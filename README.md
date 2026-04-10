@@ -39,6 +39,38 @@ A full-stack **Telemedicine Web Application** built using the **MERN stack (Mong
 
 ---
 
+## 👥 User Modules
+
+### 👨‍⚕️ Doctor
+
+* View and manage appointments
+* Accept or reject consultation requests
+* Access patient medical history and records
+* Communicate with patients via real-time chat
+* Update availability and consultation schedule
+
+---
+
+### 🧑‍🤝‍🧑 Patient
+
+* Register and login securely
+* Search and browse available doctors
+* Book and manage appointments
+* Chat with doctors in real-time
+* View medical history and prescriptions
+
+---
+
+### 🛠️ Admin
+
+* Manage users (doctors and patients)
+* Approve or verify doctor profiles
+* Monitor system activities
+* Manage appointments and platform data
+* Ensure system security and performance
+
+---
+
 ## 🛠️ Tech Stack
 
 ### Frontend:
